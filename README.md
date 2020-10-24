@@ -3,12 +3,15 @@
 This repo was created for completing the Getting and Cleaning Data Course Project.
 
 Data Description
+
 The variables in Data X are the signals from 30 subjects wearing a waist smartphone. The variable in Data Y describe the type of activity.
 
 Explanation of Code
+
 The code combined training and test dataset, and extracted partial variables to create another dataset with the mean and SD of each variable for each activity.
 
 New Dataset
+
 The new generated dataset contained variables calculated based on the mean and standard deviation. Each row of the dataset is an average of each activity type for all subjects.
 
 The code was written based on assignment instructions.
